@@ -1,0 +1,4 @@
+C:\Users\shura\source\repos\Project4\Project4\x64\Debug\Project4.exe
+D:\source\repos\Project4\Project4\x64\Debug\Project4.exe
+D:\source\repos\lab1\Project4\x64\Debug\Project4.exe
+D:\labs\labs\lab1\Project4\x64\Debug\Project4.exe
